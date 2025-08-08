@@ -62,12 +62,7 @@ CRAWL4AI_USER_AGENT=Mozilla/5.0 (compatible; MyCrawler/1.0)
 # Target site
 TARGET_URL=https://example.com
 
-Run the crawler:
-
-bash
-
-python main.py
-The script will:
+#The script will:
 
 Crawl the target website using Crawl4AI.
 
@@ -82,3 +77,4 @@ Categorize the page (e.g., blog, docs, product).
 Summarize the content.
 
 Save results into Supabase.
+
